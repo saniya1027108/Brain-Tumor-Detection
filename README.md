@@ -14,4 +14,12 @@ Brain Tumors are complex. There are a lot of abnormalities in the sizes and loca
 To Detect and Classify Brain Tumor using, CNN or ANN; as an asset of Deep Learning and to examine the tumor position(segmentation).
 
 ### About the data:
-The dataset contains 3 folders: yes, no and pred which contains 3060 Brain MRI Images.
+The dataset contains 3 folders: yes, no and pred which contains 3060 Brain MRI Images. This data is then further divided into Training,Testing and Validation Datasets.
+
+Sample Image from YES:
+
+![yes](https://user-images.githubusercontent.com/56751947/154831360-bb8e8c7f-3a18-435c-bfa5-291518df8261.png)
+
+Sample Image from NO:
+
+![no](https://user-images.githubusercontent.com/56751947/154831377-cdf30d6e-c036-46d4-a310-15a2b624a0bb.png)
